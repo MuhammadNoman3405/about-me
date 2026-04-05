@@ -14,7 +14,7 @@
 - 📊 Currently practicing **NumPy, Pandas, Matplotlib & Seaborn** via Campus X
 - 🌱 Following **Krish Naik's ML Bootcamp** on Udemy
 - 🏆 **IBM Data Science Professional Certificate** holder
-- 💡 Long-term goal: Build an online business & work internationally
+  
 - 📫 Reach me at: **23-cs-68@students.uettaxila.edu.pk**
 
 ---
